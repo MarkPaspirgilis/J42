@@ -1,0 +1,1 @@
+var PageIndex = new Page('index');
